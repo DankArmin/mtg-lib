@@ -1,0 +1,28 @@
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\bin\Debug\net6.0\mtg-lib.deps.json
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\bin\Debug\net6.0\mtg-lib.runtimeconfig.json
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\bin\Debug\net6.0\mtg-lib.dll
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\bin\Debug\net6.0\mtg-lib.pdb
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.csproj.AssemblyReference.cache
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.AssemblyInfoInputs.cache
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.AssemblyInfo.cs
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.dll
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\refint\mtg-lib.dll
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.pdb
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\mtg-lib.genruntimeconfig.cache
+C:\Users\Arman\Documents\.NETTechnology\project\mtg-lib\obj\Debug\net6.0\ref\mtg-lib.dll
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\bin\Debug\net6.0\mtg-lib.deps.json
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\bin\Debug\net6.0\mtg-lib.runtimeconfig.json
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\bin\Debug\net6.0\mtg-lib.dll
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\bin\Debug\net6.0\mtg-lib.pdb
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.csproj.AssemblyReference.cache
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.AssemblyInfoInputs.cache
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.AssemblyInfo.cs
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.csproj.CoreCompileInputs.cache
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.dll
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\refint\mtg-lib.dll
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.pdb
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\mtg-lib.genruntimeconfig.cache
+C:\Raf 2Ba TI-CSP 22-23\S4\.NET Technology Fundamentals\project\mtg-lib\obj\Debug\net6.0\ref\mtg-lib.dll
